@@ -11,11 +11,14 @@ Passionate junior web developer with a strong background in front end. Good verb
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mayil-safarzada/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mayilsafarow/)  
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,cs&theme=dark)](https://skillicons.dev)
+# Front end:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,jquery,react&theme=dark)](https://skillicons.dev) <br/>
+# Back end
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,firebase&theme=dark)](https://skillicons.dev) <br/>
+# Additional
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify&theme=dark)](https://skillicons.dev)
 
 
 
