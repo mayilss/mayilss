@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mayil!
 
-Passionate junior web developer with a strong background in front end. Good verbal and written communication skills combined with a hardworking attitude. Wants to work in a dynamic, diverse environment with opportunities to learn and grow.
+Passionate junior software developer with a strong background in front end. Good verbal and written communication skills combined with a hardworking attitude. Wants to work in a dynamic, diverse environment with opportunities to learn and grow.
 
 
 
