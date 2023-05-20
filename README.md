@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mayil!
 
-Passionate junior software developer with a strong background in front end. Good verbal and written communication skills combined with a hardworking attitude. Wants to work in a dynamic, diverse environment with opportunities to learn and grow.
+Experienced and results-driven Front End Engineer with a passion for creating exceptional user experiences. With strong problem-solving abilities, excellent communication skills, and a commitment to clean and efficient code, ready to take on new challenges and contribute to the success of your organization Wants to work in a dynamic, diverse environment with opportunities to learn and grow.
 
 
 
@@ -15,8 +15,6 @@ Passionate junior software developer with a strong background in front end. Good
 
 ## Front end:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,jquery,react&theme=dark)](https://skillicons.dev) <br/>
-## Back end
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,firebase&theme=dark)](https://skillicons.dev) <br/>
 ## Additional
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify&theme=dark)](https://skillicons.dev)
 
