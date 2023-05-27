@@ -14,7 +14,8 @@ Experienced and results-driven Front End Engineer with a passion for creating ex
 # 💻 Tech Stack:
 
 ## Front end:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,ts,materialui,jest,redux,react,nextjs&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,ts,materialui&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,nextjs&theme=dark)](https://skillicons.dev) <br/>
 ## Additional
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify&theme=dark)](https://skillicons.dev)
 
