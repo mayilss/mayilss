@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Mayil!
 
-Experienced and results-driven Front End Engineer with a passion for creating exceptional user experiences. With strong problem-solving abilities, excellent communication skills, and a commitment to clean and efficient code, ready to take on new challenges and contribute to the success of your organization Wants to work in a dynamic, diverse environment with opportunities to learn and grow.
+Experienced and results-driven Front End Engineer with a passion for creating exceptional user experiences. 
+Skilled in React, Redux, Next.js, Typescript, I bring a comprehensive technical toolkit to deliver robust and 
+efficient solutions. With a commitment to clean code and an adeptness in front end development, I strive for 
+excellence in every project.
 
 
 
@@ -23,6 +26,6 @@ Experienced and results-driven Front End Engineer with a passion for creating ex
 
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mayilss&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayilss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayilss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mayilss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayilss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayilss&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
