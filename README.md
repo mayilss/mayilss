@@ -21,7 +21,7 @@ platforms, always with a focus on user-centric design and performance.
 # 💻 Tech Stack:
 
 ## Front end:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind,materialui,jest&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,materialui,jest&theme=dark)](https://skillicons.dev) <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=javascript,ts,redux,react,nextjs,express,mongodb&theme=dark)](https://skillicons.dev) <br/>
 ## Additional
