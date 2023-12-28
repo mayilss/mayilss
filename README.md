@@ -1,9 +1,13 @@
 ### Hi there 👋 I'm Mayil!
 
-Experienced and results-driven Front End Engineer with a passion for creating exceptional user experiences. 
-Skilled in React, Redux, Next.js, Typescript, I bring a comprehensive technical toolkit to deliver robust and 
-efficient solutions. With a commitment to clean code and an adeptness in front end development, I strive for 
-excellence in every project.
+As a passionate Front End Engineer with a keen eye for creating exceptional user experiences, I specialize 
+in harnessing the power of React, Redux, Next.js, and TypeScript to develop robust and efficient web solutions. 
+My journey in the tech industry has been marked by a commitment to clean code, adaptability to new technologies, 
+and a collaborative approach to project execution.
+
+I thrive in dynamic environments where I can continuously enhance my skills and contribute to the success of my 
+team and organization. My experience spans from developing intricate government ERPs to versatile e-commerce 
+platforms, always with a focus on user-centric design and performance.
 
 
 
@@ -17,9 +21,9 @@ excellence in every project.
 # 💻 Tech Stack:
 
 ## Front end:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,ts,materialui&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,tailwind,materialui,jest&theme=dark)](https://skillicons.dev) <br/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=jest,redux,react,nextjs&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,redux,react,nextjs,express,mongodb&theme=dark)](https://skillicons.dev) <br/>
 ## Additional
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,heroku,netlify,postman&theme=dark)](https://skillicons.dev)
 
